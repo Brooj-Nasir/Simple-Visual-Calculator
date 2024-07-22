@@ -26,11 +26,11 @@ Heres how the gui of it looks like:
 
 ## Code Files
 
-- **[Form1.Designer.cs](here)**: This file contains the auto-generated code used for designing the form. It includes the initialization of components and the layout settings of the calculator interface. This is where the UI elements are created and configured.
+- **[Form1.Designer.cs](Form1.Designer.cs)**: This file contains the auto-generated code used for designing the form. It includes the initialization of components and the layout settings of the calculator interface. This is where the UI elements are created and configured.
 
-- **[Form1.cs](here)**: This file contains the logic for the calculator's functionality. It includes event handlers for button clicks and the core logic for performing arithmetic operations and displaying results. The code handles user interactions and performs calculations based on the selected operations.
+- **[Form1.cs](Form1.cs)**: This file contains the logic for the calculator's functionality. It includes event handlers for button clicks and the core logic for performing arithmetic operations and displaying results. The code handles user interactions and performs calculations based on the selected operations.
 
-- **[Program.cs](here)**: This is the entry point of the application. It initializes the application and runs the main form. It contains the `Main` method, which sets up the application configuration and starts the Windows Forms application.
+- **[Program.cs](Program.cs)**: This is the entry point of the application. It initializes the application and runs the main form. It contains the `Main` method, which sets up the application configuration and starts the Windows Forms application.
 
 ## Requirements
 
